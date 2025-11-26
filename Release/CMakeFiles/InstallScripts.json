@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mount/harddrive/cpp/battle/Release/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

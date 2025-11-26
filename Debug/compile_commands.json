@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/mount/harddrive/cpp/battle/Debug",
+  "command": "/usr/bin/c++  -I/mount/harddrive/cpp/battle/include -g -o CMakeFiles/battle.dir/src/main.cpp.o -c /mount/harddrive/cpp/battle/src/main.cpp",
+  "file": "/mount/harddrive/cpp/battle/src/main.cpp",
+  "output": "CMakeFiles/battle.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mount/harddrive/cpp/battle/Debug",
+  "command": "/usr/bin/c++  -I/mount/harddrive/cpp/battle/include -g -o CMakeFiles/battle.dir/src/table.cpp.o -c /mount/harddrive/cpp/battle/src/table.cpp",
+  "file": "/mount/harddrive/cpp/battle/src/table.cpp",
+  "output": "CMakeFiles/battle.dir/src/table.cpp.o"
+}
+]
