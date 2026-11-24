@@ -1,3 +1,0 @@
-/mount/harddrive/cpp/battle/Release/CMakeFiles/battle.dir
-/mount/harddrive/cpp/battle/Release/CMakeFiles/edit_cache.dir
-/mount/harddrive/cpp/battle/Release/CMakeFiles/rebuild_cache.dir
